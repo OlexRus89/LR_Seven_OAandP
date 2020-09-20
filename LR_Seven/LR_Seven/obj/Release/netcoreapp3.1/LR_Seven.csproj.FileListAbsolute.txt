@@ -1,0 +1,13 @@
+C:\Users\lesha\OneDrive\Desktop\LR_Seven\LR_Seven\bin\Release\netcoreapp3.1\LR_Seven.exe
+C:\Users\lesha\OneDrive\Desktop\LR_Seven\LR_Seven\bin\Release\netcoreapp3.1\LR_Seven.deps.json
+C:\Users\lesha\OneDrive\Desktop\LR_Seven\LR_Seven\bin\Release\netcoreapp3.1\LR_Seven.runtimeconfig.json
+C:\Users\lesha\OneDrive\Desktop\LR_Seven\LR_Seven\bin\Release\netcoreapp3.1\LR_Seven.runtimeconfig.dev.json
+C:\Users\lesha\OneDrive\Desktop\LR_Seven\LR_Seven\bin\Release\netcoreapp3.1\LR_Seven.dll
+C:\Users\lesha\OneDrive\Desktop\LR_Seven\LR_Seven\bin\Release\netcoreapp3.1\LR_Seven.pdb
+C:\Users\lesha\OneDrive\Desktop\LR_Seven\LR_Seven\obj\Release\netcoreapp3.1\LR_Seven.csprojAssemblyReference.cache
+C:\Users\lesha\OneDrive\Desktop\LR_Seven\LR_Seven\obj\Release\netcoreapp3.1\LR_Seven.AssemblyInfoInputs.cache
+C:\Users\lesha\OneDrive\Desktop\LR_Seven\LR_Seven\obj\Release\netcoreapp3.1\LR_Seven.AssemblyInfo.cs
+C:\Users\lesha\OneDrive\Desktop\LR_Seven\LR_Seven\obj\Release\netcoreapp3.1\LR_Seven.csproj.CoreCompileInputs.cache
+C:\Users\lesha\OneDrive\Desktop\LR_Seven\LR_Seven\obj\Release\netcoreapp3.1\LR_Seven.dll
+C:\Users\lesha\OneDrive\Desktop\LR_Seven\LR_Seven\obj\Release\netcoreapp3.1\LR_Seven.pdb
+C:\Users\lesha\OneDrive\Desktop\LR_Seven\LR_Seven\obj\Release\netcoreapp3.1\LR_Seven.genruntimeconfig.cache
